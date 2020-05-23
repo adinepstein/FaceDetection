@@ -1,0 +1,40 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/AdinEpstein/Documents/source/FaceDetection/app/src/main/cpp/dlib/cmake_utils/test_for_neon/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\AdinEpstein\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cmake\\debug\\arm64-v8a\\dlib_build\\neon_test_build --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"neon_test-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "neon_test",
+			"buildCommand" : "C:\\Users\\AdinEpstein\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cmake\\debug\\arm64-v8a\\dlib_build\\neon_test_build --target neon_test",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/AdinEpstein/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/AdinEpstein/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot    -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -fPIC    -c ",
+					"src" : "C:/Users/AdinEpstein/Documents/source/FaceDetection/app/src/main/cpp/dlib/cmake_utils/test_for_neon/neon_test.cpp",
+					"workingDirectory" : "C:/Users/AdinEpstein/Documents/source/FaceDetection/app/.cxx/cmake/debug/arm64-v8a/dlib_build/neon_test_build"
+				}
+			],
+			"output" : "C:/Users/AdinEpstein/Documents/source/FaceDetection/app/.cxx/cmake/debug/arm64-v8a/dlib_build/neon_test_build/libneon_test.a",
+			"toolchain" : "4274756801"
+		}
+	},
+	"toolchains" : 
+	{
+		"4274756801" : 
+		{
+			"cCompilerExecutable" : "C:/Users/AdinEpstein/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/AdinEpstein/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

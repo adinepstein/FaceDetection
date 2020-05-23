@@ -1,0 +1,6 @@
+C:/Users/AdinEpstein/Documents/source/FaceDetection/app/.cxx/cmake/release/x86/CMakeFiles/native-lib.dir
+C:/Users/AdinEpstein/Documents/source/FaceDetection/app/.cxx/cmake/release/x86/CMakeFiles/edit_cache.dir
+C:/Users/AdinEpstein/Documents/source/FaceDetection/app/.cxx/cmake/release/x86/CMakeFiles/rebuild_cache.dir
+C:/Users/AdinEpstein/Documents/source/FaceDetection/app/.cxx/cmake/release/x86/dlib_build/CMakeFiles/dlib.dir
+C:/Users/AdinEpstein/Documents/source/FaceDetection/app/.cxx/cmake/release/x86/dlib_build/CMakeFiles/edit_cache.dir
+C:/Users/AdinEpstein/Documents/source/FaceDetection/app/.cxx/cmake/release/x86/dlib_build/CMakeFiles/rebuild_cache.dir

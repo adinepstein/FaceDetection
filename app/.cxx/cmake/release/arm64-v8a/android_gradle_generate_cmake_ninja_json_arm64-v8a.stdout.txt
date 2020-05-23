@@ -1,0 +1,7 @@
+-- Using CMake version: 3.6.0-rc2
+-- Compiling dlib version: 19.16.0
+-- Building a C++11 test project to see if your compiler supports C++11
+-- C++11 activated.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/AdinEpstein/Documents/source/FaceDetection/app/.cxx/cmake/release/arm64-v8a

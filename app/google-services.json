@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "181603103932",
+    "firebase_url": "https://movmentdetection.firebaseio.com",
+    "project_id": "movmentdetection",
+    "storage_bucket": "movmentdetection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181603103932:android:78088295e785a25bd74cb9",
+        "android_client_info": {
+          "package_name": "com.lightweh.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181603103932-ijm2tdc4s2megiae7rduj1n36itf44go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEr4nIWNydY0nIF0dOGArzgnuuui9Ecpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181603103932-ijm2tdc4s2megiae7rduj1n36itf44go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

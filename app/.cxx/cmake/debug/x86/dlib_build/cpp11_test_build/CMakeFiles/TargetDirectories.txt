@@ -1,0 +1,3 @@
+C:/Users/AdinEpstein/Documents/source/FaceDetection/app/.cxx/cmake/debug/x86/dlib_build/cpp11_test_build/CMakeFiles/rebuild_cache.dir
+C:/Users/AdinEpstein/Documents/source/FaceDetection/app/.cxx/cmake/debug/x86/dlib_build/cpp11_test_build/CMakeFiles/cpp11_test.dir
+C:/Users/AdinEpstein/Documents/source/FaceDetection/app/.cxx/cmake/debug/x86/dlib_build/cpp11_test_build/CMakeFiles/edit_cache.dir

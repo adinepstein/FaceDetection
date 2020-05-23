@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\CMakeLists.txt",
+    "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\src\\main\\cpp\\dlib\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\AdinEpstein\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cmake\\release\\x86 --target clean"
+  ],
+  "libraries": {
+    "dlib-Release-x86": {
+      "artifactName": "dlib",
+      "buildCommand": "C:\\Users\\AdinEpstein\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cmake\\release\\x86 --target dlib",
+      "abi": "x86",
+      "output": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cmake\\release\\x86\\dlib_build\\libdlib.a"
+    },
+    "native-lib-Release-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Users\\AdinEpstein\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cmake\\release\\x86 --target native-lib",
+      "abi": "x86",
+      "output": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libnative-lib.so"
+    },
+    "libopencv_java3-Release-x86": {
+      "artifactName": "libopencv_java3",
+      "abi": "x86",
+      "output": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\src\\main\\cpp\\opencv\\libs\\x86\\libopencv_java3.so"
+    }
+  }
+}

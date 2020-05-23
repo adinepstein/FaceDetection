@@ -1,0 +1,143 @@
+[1/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/data_io/mnist.cpp.o
+[2/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.o
+[3/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.o
+[4/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.o
+[5/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.o
+[6/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.o
+[7/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.o
+[8/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.o
+[9/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/unicode/unicode.cpp.o
+[10/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.o
+[11/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.o
+[12/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/png.c.o
+[13/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.o
+[14/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.o
+[15/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.o
+[16/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.o
+[17/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.o
+[18/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.o
+[19/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/test_for_odr_violations.cpp.o
+[20/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.o
+[21/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.o
+[22/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.o
+[23/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/svm/auto.cpp.o
+[24/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.o
+[25/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/bsp/bsp.cpp.o
+[26/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.o
+[27/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.o
+[28/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/server/server_http.cpp.o
+[29/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.o
+[30/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.o
+[31/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.o
+[32/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.o
+[33/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/server/server_kernel.cpp.o
+[34/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/logger/logger_config_file.cpp.o
+[35/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.o
+[36/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/server/server_iostream.cpp.o
+[37/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.o
+[38/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.o
+[39/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.o
+[40/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/threads/async.cpp.o
+[41/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.o
+[42/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/timer/timer.cpp.o
+[43/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/stack_trace.cpp.o
+[44/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.o
+[45/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.o
+[46/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.o
+[47/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.o
+[48/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrio.c.o
+[49/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwtran.c.o
+[50/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngget.c.o
+[51/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngread.c.o
+[52/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwio.c.o
+[53/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrtran.c.o
+[54/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwutil.c.o
+[55/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrutil.c.o
+[56/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngset.c.o
+[57/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngpread.c.o
+[58/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngmem.c.o
+[59/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngerror.c.o
+[60/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwrite.c.o
+[61/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/libpng/pngtrans.c.o
+[62/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/compress.c.o
+[63/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/inftrees.c.o
+[64/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/adler32.c.o
+[65/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/inflate.c.o
+[66/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/inffast.c.o
+[67/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/deflate.c.o
+[68/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/gzread.c.o
+[69/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/trees.c.o
+[70/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/gzclose.c.o
+[71/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/crc32.c.o
+[72/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/infback.c.o
+[73/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/gzwrite.c.o
+[74/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/gzlib.c.o
+[75/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdphuff.cpp.o
+[76/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdpostct.cpp.o
+[77/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapimin.cpp.o
+[78/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.cpp.o
+[79/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/image_saver/save_png.cpp.o
+[80/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdhuff.cpp.o
+[81/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.cpp.o
+[82/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/uncompr.c.o
+[83/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcomapi.cpp.o
+C:\Users\AdinEpstein\Documents\source\FaceDetection\app\src\main\cpp\dlib\external\zlib\inflate.c:1507:61: warning: shifting a negative signed value is undefined [-Wshift-negative-value]
+    if (strm == Z_NULL || strm->state == Z_NULL) return -1L << 16;
+                                                        ~~~ ^
+1 warning generated.
+[84/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/image_loader/png_loader.cpp.o
+[85/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdinput.cpp.o
+[86/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmainct.cpp.o
+[87/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmarker.cpp.o
+[88/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmaster.cpp.o
+[89/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.cpp.o
+[90/129] Building C object dlib_build/CMakeFiles/dlib.dir/external/zlib/zutil.c.o
+[91/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapistd.cpp.o
+C:\Users\AdinEpstein\Documents\source\FaceDetection\app\src\main\cpp\dlib\external\libjpeg\jdhuff.cpp:296:34: warning: 'register' storage class specifier is deprecated and incompatible with C++17 [-Wdeprecated-register]
+                      bit_buf_type get_buffer, register int bits_left,
+                                               ^~~~~~~~~
+C:\Users\AdinEpstein\Documents\source\FaceDetection\app\src\main\cpp\dlib\external\libjpeg\jdhuff.cpp:402:30: warning: 'register' storage class specifier is deprecated and incompatible with C++17 [-Wdeprecated-register]
+                  bit_buf_type get_buffer, register int bits_left,
+                                           ^~~~~~~~~
+2 warnings generated.
+[92/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcolor.cpp.o
+[93/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmerge.cpp.o
+[94/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jerror.cpp.o
+[95/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctint.cpp.o
+[96/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctflt.cpp.o
+[97/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctfst.cpp.o
+[98/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdsample.cpp.o
+[99/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccoefct.cpp.o
+[100/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmarker.cpp.o
+[101/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jchuff.cpp.o
+[102/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant2.cpp.o
+[103/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.cpp.o
+[104/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmainct.cpp.o
+[105/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant1.cpp.o
+[106/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcparam.cpp.o
+[107/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jutils.cpp.o
+[108/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapimin.cpp.o
+[109/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatadst.cpp.o
+[110/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.cpp.o
+[111/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcinit.cpp.o
+[112/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmaster.cpp.o
+[113/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctred.cpp.o
+[114/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapistd.cpp.o
+[115/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.cpp.o
+[116/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccolor.cpp.o
+[117/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctint.cpp.o
+[118/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcphuff.cpp.o
+[119/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcsample.cpp.o
+[120/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.cpp.o
+[121/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcprepct.cpp.o
+[122/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.cpp.o
+[123/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.o
+[124/129] Building CXX object dlib_build/CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.o
+[125/129] Linking CXX static library dlib_build\libdlib.a
+[126/129] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/jni_common/jni_bitmap2mat.cpp.o
+[127/129] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o
+[128/129] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/face_detector.cpp.o
+clang++: warning: argument unused during compilation: '-s' [-Wunused-command-line-argument]
+clang++: warning: argument unused during compilation: '-s' [-Wunused-command-line-argument]
+clang++: warning: argument unused during compilation: '-s' [-Wunused-command-line-argument]
+[129/129] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\x86_64\libnative-lib.so

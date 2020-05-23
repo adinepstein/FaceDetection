@@ -1,0 +1,74 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection",
+      "sdkFolder": "C:\\Users\\AdinEpstein\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app",
+      "makeFile": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\.cxx",
+      "cxxFolder": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\AdinEpstein\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DCMAKE_BUILD_TYPE\u003dRelease"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dc++11 -frtti -fexceptions"
+    ],
+    "variantName": "debug",
+    "soFolder": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cmake\\debug\\arm64-v8a",
+  "jsonFile": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cmake\\debug\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cxx\\debug\\arm64-v8a",
+  "objFolder": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a",
+  "buildCommandFile": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cmake\\debug\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cxx\\debug\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cxx\\debug\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cxx\\debug\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cxx\\debug\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cmake\\debug\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "C:\\Users\\AdinEpstein\\Documents\\source\\FaceDetection\\app\\.cxx\\cmake\\debug\\arm64-v8a\\compile_commands.json"
+}
